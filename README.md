@@ -3,7 +3,7 @@ Final project material for the CSCI 4622 Machine Learning course at CU Boulder.
 
 **Authors:**  
 + Kaitlin Coleman _[kaitlin.coleman@colorado.edu]()_
-+ Jot Kaur _[jot.kaur@colorado.edu]()_
++ Jot Kaur _[baljot.kaur@colorado.edu]()_
 + Alex Ho _[alex.ho@colorado.edu]()_
 + Liam Nestelroad _[liam.nestelroad@colorado.edu]()_
 
