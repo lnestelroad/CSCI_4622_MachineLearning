@@ -277,6 +277,14 @@ met = f1_score(y_test, y_hat_test)
 
 ################################# SVM ########################################
 # %%
+
+from sklearn.svm import LinearSVC
+from sklearn.decomposition import PCA
+
+l_pca = PCA()
+
+l_svm = LinearSVC()
+
 ################################ W/ PCA ######################################
 # %%
 ############################### LOGISTIC REGRESSION ##########################
