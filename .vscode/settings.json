@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "jupyter.jupyterServerType": "local",
+    "git.ignoreLimitWarning": true,
+    "liveshare.allowGuestDebugControl": false,
+    "liveshare.notebooks.allowGuestExecuteCells": true,
+    "liveshare.languages.allowGuestCommandControl": true
+}
