@@ -281,11 +281,17 @@ met = f1_score(y_test, y_hat_test)
 from sklearn.svm import LinearSVC
 from sklearn.decomposition import PCA
 
-l_pca = PCA()
+l_pca = PCA(n_components=2)
+l_pca.fit(X_train)
 
-l_svm = LinearSVC()
+
+#l_svm = LinearSVC()
 
 ################################ W/ Kmeans ######################################
 # %%
 from sklearn.cluster import KMeans
+
+l_kmean = KMeans(n_clusters=2)
+l_kmean.fit(X_train)
 ############################### LOGISTIC REGRESSION ##########################
+# %%
