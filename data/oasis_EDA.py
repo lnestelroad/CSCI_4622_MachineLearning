@@ -295,3 +295,7 @@ l_kmean = KMeans(n_clusters=2)
 l_kmean.fit(X_train)
 ############################### LOGISTIC REGRESSION ##########################
 # %%
+test = KMeans()
+# %%
+print(test)
+# %%
